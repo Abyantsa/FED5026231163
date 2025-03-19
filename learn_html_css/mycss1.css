@@ -29,12 +29,3 @@ a:hover {
     font-size: larger;
 }
 
-p[class*="tent"] {
-    background-color: violet;
-    color: yellowgreen;
-}
-
-video {
-    width: 100%;
-    height: auto;
-}
